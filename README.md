@@ -42,13 +42,6 @@ pip install -r requirements.txt
 
 ---
 
-<h2 align="center">💎 Developed By</h2>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Developed+by+RajbharSaheb+%F0%9F%91%BD;Telegram+Bot+Developer;Follow+on+GitHub+%40RajbharSaheb" alt="RajbharSaheb Typing Animation" />
-</p>
-
-<p align="center">
-  <a href="https://t.me/RajbharSaheb"><img src="https://img.shields.io/badge/Telegram-RajbharSaheb-blue?style=for-the-badge&logo=telegram" /></a>
-  <a href="https://github.com/RajbharSaheb"><img src="https://img.shields.io/badge/GitHub-RajbharSaheb-black?style=for-the-badge&logo=github" /></a>
 </p>
