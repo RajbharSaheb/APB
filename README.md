@@ -42,6 +42,3 @@ pip install -r requirements.txt
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Developed+by+RajbharSaheb+%F0%9F%91%BD;Telegram+Bot+Developer;Follow+on+GitHub+%40RajbharSaheb" alt="RajbharSaheb Typing Animation" />
-</p>
